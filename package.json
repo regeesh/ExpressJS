@@ -1,0 +1,14 @@
+{
+  "name": "expressloginapi",
+  "version": "1.0.0",
+  "description": "Login API with Express JS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Regeesh Joseph",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
